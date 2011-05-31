@@ -1232,6 +1232,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FA1941CA0D94A70100DD942E /* ConfigFrameworkDebug.xcconfig */;
 			buildSettings = {
+				SDKROOT = macosx10.6;
 			};
 			name = Debug;
 		};
@@ -1239,18 +1240,21 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FA1941D50D94A70100DD942E /* ConfigFrameworkRelease.xcconfig */;
 			buildSettings = {
+				SDKROOT = macosx10.6;
 			};
 			name = Release;
 		};
 		1DEB91B208733DA50010E9CD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				SDKROOT = macosx10.6;
 			};
 			name = Debug;
 		};
 		1DEB91B308733DA50010E9CD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				SDKROOT = macosx10.6;
 			};
 			name = Release;
 		};
@@ -1258,6 +1262,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5D06E8F20FD68D21005AE3F6 /* ConfigBinaryDeltaDebug.xcconfig */;
 			buildSettings = {
+				SDKROOT = macosx10.6;
 			};
 			name = Debug;
 		};
@@ -1265,6 +1270,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5D06E8F30FD68D21005AE3F6 /* ConfigBinaryDeltaRelease.xcconfig */;
 			buildSettings = {
+				SDKROOT = macosx10.6;
 			};
 			name = Release;
 		};
@@ -1272,12 +1278,14 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5D06E8F30FD68D21005AE3F6 /* ConfigBinaryDeltaRelease.xcconfig */;
 			buildSettings = {
+				SDKROOT = macosx10.6;
 			};
 			name = "Release (GC dual-mode; 10.5-only)";
 		};
 		61072EAD0DF263BD008FE88B /* Release (GC dual-mode; 10.5-only) */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				SDKROOT = macosx10.6;
 			};
 			name = "Release (GC dual-mode; 10.5-only)";
 		};
@@ -1285,6 +1293,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 61072EB20DF2640C008FE88B /* ConfigFrameworkReleaseGCSupport.xcconfig */;
 			buildSettings = {
+				SDKROOT = macosx10.6;
 			};
 			name = "Release (GC dual-mode; 10.5-only)";
 		};
@@ -1292,6 +1301,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 615409A8103BA09100125AF1 /* ConfigTestAppReleaseGCSupport.xcconfig */;
 			buildSettings = {
+				SDKROOT = macosx10.6;
 			};
 			name = "Release (GC dual-mode; 10.5-only)";
 		};
@@ -1299,6 +1309,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FA1941D40D94A70100DD942E /* ConfigRelaunchRelease.xcconfig */;
 			buildSettings = {
+				SDKROOT = macosx10.6;
 			};
 			name = "Release (GC dual-mode; 10.5-only)";
 		};
@@ -1306,6 +1317,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FA302AFD109D13190060F891 /* ConfigUnitTestReleaseGCSupport.xcconfig */;
 			buildSettings = {
+				SDKROOT = macosx10.6;
 			};
 			name = "Release (GC dual-mode; 10.5-only)";
 		};
@@ -1313,6 +1325,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FA3AAF3A1050B273004B3130 /* ConfigUnitTestDebug.xcconfig */;
 			buildSettings = {
+				SDKROOT = macosx10.6;
 			};
 			name = Debug;
 		};
@@ -1320,6 +1333,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FA3AAF391050B273004B3130 /* ConfigUnitTestRelease.xcconfig */;
 			buildSettings = {
+				SDKROOT = macosx10.6;
 			};
 			name = Release;
 		};
@@ -1327,6 +1341,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FA1941CB0D94A70100DD942E /* ConfigTestAppDebug.xcconfig */;
 			buildSettings = {
+				SDKROOT = macosx10.6;
 			};
 			name = Debug;
 		};
@@ -1334,6 +1349,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FA1941D20D94A70100DD942E /* ConfigTestAppRelease.xcconfig */;
 			buildSettings = {
+				SDKROOT = macosx10.6;
 			};
 			name = Release;
 		};
@@ -1341,6 +1357,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FA1941D30D94A70100DD942E /* ConfigRelaunchDebug.xcconfig */;
 			buildSettings = {
+				SDKROOT = macosx10.6;
 			};
 			name = Debug;
 		};
@@ -1348,6 +1365,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FA1941D40D94A70100DD942E /* ConfigRelaunchRelease.xcconfig */;
 			buildSettings = {
+				SDKROOT = macosx10.6;
 			};
 			name = Release;
 		};
